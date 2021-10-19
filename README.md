@@ -6,10 +6,10 @@ The transformation process first involves extracting from each data set only tho
 
 With the transformation complete, a connection is established to a designated postgres relational database and the sales dataframe and esports (called: "players") dataframe are pushed to their corresponding tables of the same name. These dataframes appear as follows:
 
-#### Sales Dataframe
+### Sales Dataframe
 ![alt text](https://github.com/IIVIIIII/Esports_ETL/blob/main/photos/final_sales_data.png?raw=true)
 
-#### Players Dataframe
+### Players Dataframe
 ![alt text](https://github.com/IIVIIIII/Esports_ETL/blob/main/photos/final_player_data.png?raw=true)
 
 
